@@ -33,10 +33,25 @@ Nous avons modélisé le projet à l'aide de courbe afin de comparer la propagat
 Nous avons tout d'abords procédés à une recherche documentaire afin de nous baser sur des chiffres exacts. Les sources seront listées ci dessous. Grace à cela nous avons pu constater que le facteur majeur qui influencait l'adhésion d'individus était l'entourage. 
 La morale et la science sont des facteurs minimimes. Et le charisme du leader un facteur assez influent.
 Pour rester dans un model réaliste, nous avons modélisé les adherants de départ par des individus selon leur appartenance sociale. 
-Les résultats seront abordés plus en détail, ici -> [lien]
+Les résultats seront observables dans "exemples".
+
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
 ## Bibliographie :
 
 Pour nos travaux nous avons utilisé : Wikipédia et Google Scholar.
+
+[1]	La morale anarchiste, Joseph Kropotkine, 1889.
+
+[2]  C.B. Macpherson, La Théorie politique de l'individualisme possessif. De Hobbes à Locke, Gallimard, 1971 
+
+[3] Ernest Renan, L'Avenir de la science - pensées de 1848, Calmann-Levy, 1890, p. 37 —Organiser scientifiquement l'humanité, tel est donc le dernier mot de la science moderne, telle est son audacieuse mais légitime prétention.”
+
+[4] Christopher Tuckett, « Les Pharisiens avant 70 », dans Daniel Marguerat (éd.), Le déchirement : Juifs et chrétiens au premier siècle, Labor et Fides, 1996, p. 74 
+
+[5] Nathalie Brémand, Cempuis : une expérience d'éducation libertaire à l'époque de Jules Ferry, 1880-1894, Paris, Éditions du Monde libertaire, 1992, 
+
+[6] Le vote des classes moyennes de Elisabeth Dupoirier, parut en 2011 par fonsapol
+
+[7] Fabien Jobard, Les violences policières. État des recherches dans les pays anglo-saxons, Paris, L'Harmattan, 1999 
