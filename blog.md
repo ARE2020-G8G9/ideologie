@@ -23,7 +23,7 @@ Ma collègue et moi, nous sommes heureuses de bien mener à bonne fin ce projet 
 
 Cependant, les partages faits lors de la finalisation de ce projet entre nous ont été d'une richesse inoubliable, que ce soit notre différente façon d'aborder le sujet et notre manière à rassembler les informations nécessaires pour le projet ou encore les techniques individuelles qu'on a partagé lors de l'étape du codage. 
 
-Bien que stressant comme situation, laborieux par le fait d'avancer le projet qu'à deux, nous avons pu vivre une expérience pratique et semblable à notre vie professionnelle de l'avenir grâce à cette unité d'enseignement et les fonctionnalités du Github et nous vous en remercions pour vos efforts à nous soutenir malgré les complications actuelles.
+Bien que stressant comme situation, laborieux par le fait d'avancer le projet qu'à deux, nous avons pu vivre une expérience pratique et semblable à notre vie professionnelle de l'avenir grâce à cette unité d'enseignement et les fonctionnalités du Github et nous vous en remercions ainsi que pour vos efforts à nous soutenir malgré les complications actuelles.
 
 Bien à vous,
 
