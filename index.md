@@ -8,26 +8,27 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+| K. Sofia| A. Parto |
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique : Modélisation de la propagation d'une idéologie selon plusieurs facteurs.
 
-**Hypothèse principale :**
+**Hypothèse principale : Plus des personnes adhère à l'idéologie, plus celle ci se propage. 
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires : Certains facteurs comptent plus que d'autres, nous avons des facteurs sociaux et d'autres plus spécifique à l'idée présentée. 
 
-**Objectifs :**
+**Objectifs : Montrer l'influencent qu'ont certains facteurs dans l'expansion d'une idée.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation : On va observer plusieurs exemples en modifiant les facteurs.
 
 ## Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
+Nous avons modélisé le projet à l'aide de courbe afin de comparer la propagation de l'idéologie après la modification de certains facteurs.
+Nous avons 
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
