@@ -14,7 +14,7 @@ Bien que stressant comme situation, laborieux par le fait d'avancer le projet qu
 
 Bien à vous,
 
-###### Auteur: Sophia Khali et Parto Akhtarkhavari
+###### Auteurs: Sophia Khali et Parto Akhtarkhavari
 
 
 
