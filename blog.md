@@ -2,19 +2,6 @@
 
 => Description hebdomadaire du travail effectué (variez les auteurs !)
 
-### Semaine 18
-
-Bonjour à toutes et à tous,
-
-Notre groupe a finalisé les premières étapes dans la création du blog.
-Nous avons pris connaissance du fonctionnement de Github ainsi que de la façon de partager nos progrès.
-En raison des problèmes actuels, la communication entre les membres du groupe semble difficile.
-La mise en ligne d'environ 1/3 du travail sera accessible d'ici la semaine 19.
-
-Bien cordialement,
-###### Auteur: Parto Akhtarkhavari
-
-
 ### Lundi 11 Mai 2020
 
 Bonjour Madame/Monsieur,
@@ -28,6 +15,22 @@ Bien que stressant comme situation, laborieux par le fait d'avancer le projet qu
 Bien à vous,
 
 ###### Auteur: Sophia Khali et Parto Akhtarkhavari
+
+
+
+
+### Semaine 18
+
+Bonjour à toutes et à tous,
+
+Notre groupe a finalisé les premières étapes dans la création du blog.
+Nous avons pris connaissance du fonctionnement de Github ainsi que de la façon de partager nos progrès.
+En raison des problèmes actuels, la communication entre les membres du groupe semble difficile.
+La mise en ligne d'environ 1/3 du travail sera accessible d'ici la semaine 19.
+
+Bien cordialement,
+###### Auteur: Parto Akhtarkhavari
+
 
 
 <a href="index.html"> Retour à la page principale </a>
