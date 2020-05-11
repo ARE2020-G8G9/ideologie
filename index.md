@@ -1,12 +1,14 @@
-# Mon projet Test
+## Expansion d'une idée 
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+Bonjour et bienvenue ! Vous assisterez ici à notre tentative de modélisation d'une idéologie.
+Pour cela, les membres de l'équipe et moi allons procéder à divers recherches et nous illustrerons nos propos par des graphiques et exemples.
+Nous documenterons petit à petit notre avancement !
 
-## English version
+## The extension of an idea
+Hello and welcome ! With this projest, the members and I will be trying to modelize the expansion of an idea through different factors.
+We'll be illustriating our work by many researches and some important examples.
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
-
-## Présentation de l'équipe
+## Présentation de l'équipe ! 
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) |
 |-----|--|--|--|
@@ -28,12 +30,13 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 ## Présentation structurée des résultats
 
 Nous avons modélisé le projet à l'aide de courbe afin de comparer la propagation de l'idéologie après la modification de certains facteurs.
-Nous avons 
+Nous avons tout d'abords procédés à une recherche documentaire afin de nous baser sur des chiffres exacts. Les sources seront listées ci dessous. Grace à cela nous avons pu constater que le facteur majeur qui influencait l'adhésion d'individus était l'entourage. 
+La morale et la science sont des facteurs minimimes. Et le charisme du leader un facteur assez influent.
+Pour rester dans un model réaliste, nous avons modélisé les adherants de départ par des individus selon leur appartenance sociale. 
+Les résultats seront abordés plus en détail, ici -> [lien]
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+Pour nos travaux nous avons utilisé : Wikipédia et Google Scholar.
